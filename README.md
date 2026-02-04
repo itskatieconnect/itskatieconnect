@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @itskatieconnect
-- 👀 I’m interested in Cybersecurity, Coding, AI and tech 
-- 🌱 I’m currently learning how to code and advance my skills as a SOC analyst
-- 💞️ I’m looking to collaborate on Cybersecurity projects, connect with like individuals and create a huge impact
+- 👋 Hi, I’m @itskatieconnect 
+- 💞️  I am a Human-Centered Security Analyst with hands-on experience in security monitoring, incident response, and digital safety. Experienced in designing logging, detection, and incident readiness workflows using SIEM and open-source tools. 
+-  I have a strong interest in protecting vulnerable users, supporting digital rights, and translating technical security findings into actionable guidance for people and organizations.
 - 📫 How to reach me https://linktr.ee/Itskatieconnect
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love tech
+- ⚡ Fun fact: I love food
 
 <!---
 itskatieconnect/itskatieconnect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
